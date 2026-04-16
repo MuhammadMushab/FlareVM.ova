@@ -26,9 +26,8 @@ Due to GitHub size limits, the VM is split into parts.
 
 ### ☁️ MEGA
 
-* Part 1: [[Mega Folder Link - Account 1](https://mega.nz/folder/J35EgJjI#q9XeJ9W2FSx76RHYsAiRTg)
-  ]
-* Part 2: [Mega Folder Link - Account 2]
+* Part 1 (13GB): [[Mega Folder Link ](https://mega.nz/folder/J35EgJjI#q9XeJ9W2FSx76RHYsAiRTg)]
+* Part 2:(13GB): [[Mega Folder Link ](https://mega.nz/folder/Kb5GAIBa#1o_adgNgqQjgoDIS4yJDZg)]
 
 ⚠️ Download ALL parts from both links
 
