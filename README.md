@@ -1,4 +1,3 @@
-![FLARE VM Banner](screenshots/banner.png)
 
 # 🔥 Win10 FLARE VM (Malware Analysis Lab)
 
