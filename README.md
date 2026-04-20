@@ -21,12 +21,12 @@ Due to GitHub size limits, the VM is split into parts.
 
 ### ☁️ Google Drive
 
-* Part 1 (13GB): [[Add Link]](https://drive.google.com/file/d/1FIK09feQhIfMJWa-4TO5yfsB6dRpYchK/view?usp=drive_link)
-* Part 2 (13GB): [Add Link]
+* Part 1 (13GB): [[Link]](https://drive.google.com/file/d/1FIK09feQhIfMJWa-4TO5yfsB6dRpYchK/view?usp=drive_link)
+* Part 2 (13GB): [Link]
 
 ### ☁️ MEGA
 
-* Part 1 (13GB): [[Mega Folder Link ](https://mega.nz/folder/J35EgJjI#q9XeJ9W2FSx76RHYsAiRTg)]
+* Part 1 (13GB): [[[Mega Folder Link ]](https://mega.nz/file/hnoVBJKI#mMsdZ5rJ2E1cKj9h413iv1AGzxnEO3yuGRjh2THrdRI)
 * Part 2:(13GB): [[Mega Folder Link ](https://mega.nz/folder/Kb5GAIBa#1o_adgNgqQjgoDIS4yJDZg)]
 
 ⚠️ Download ALL parts from both links
