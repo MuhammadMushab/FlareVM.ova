@@ -22,7 +22,7 @@ Due to GitHub size limits, the VM is split into parts.
 ### ☁️ Google Drive
 
 * Part 1 (13GB): [[Link]](https://drive.google.com/file/d/1FIK09feQhIfMJWa-4TO5yfsB6dRpYchK/view?usp=drive_link)
-* Part 2 (13GB): [Link]
+* Part 2 (13GB): [[Link](https://drive.google.com/drive/folders/1Dmie9MzzPvuK35gRKu3kfflOT17hhrN6?usp=drive_link)]
 
 ### ☁️ MEGA
 
