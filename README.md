@@ -59,7 +59,7 @@ Win10 Pro.7z.003
 
 1. Install **7-Zip**
 2. only one file Extract  
-3. Right-click `Win10 Pro.7z`
+3. Right-click `Win10 Pro.7z`or 'Win10 Pro.7z.001'
 4. Click **Extract Here**
 
 ✔ Automatically combines all parts
