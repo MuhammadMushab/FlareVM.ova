@@ -58,8 +58,9 @@ Win10 Pro.7z.003
 ### 2️⃣ Extract Files
 
 1. Install **7-Zip**
-2. Right-click `Win10 Pro.7z`
-3. Click **Extract Here**
+2. only one file Extract  
+3. Right-click `Win10 Pro.7z`
+4. Click **Extract Here**
 
 ✔ Automatically combines all parts
 ✔ Output: `Win10 Pro.ova`
